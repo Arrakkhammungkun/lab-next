@@ -18,9 +18,10 @@ export default function Home() {
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
             </code>
-            .
+            
           </li>
           <li>Save and see your changes instantly55555555.</li>
+          <li>66023085 -main</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
